@@ -1,0 +1,14 @@
+
+#heading{     position: absolute; margin-top: 5px;margin-left: 5px;
+ }
+ #heading_BG{ position: absolute; width:98%; height:80px; 
+ margin-top: 0px;margin-left: 5px;
+ background-color: skyblue;}
+ 
+ h3{ position: absolute; margin-top: 120px;margin-left: 400px;   }
+ 
+ #tbe{ position: absolute; margin-top: 150px;margin-left: 300px;   }
+ #my_idea{ position: absolute; margin-top: 700px;margin-left: 300px;   }
+ 
+ 
+ 

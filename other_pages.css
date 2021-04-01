@@ -1,0 +1,22 @@
+
+
+#HK_words{ position: absolute; margin-top: 5px;margin-left: 5px;
+ }
+ #heading_BG{ position: absolute; width:100%; height:90px; 
+ margin-top: 0px;margin-left: 5px; background-color: pink ;}
+ 
+ #sub_head{ position: absolute; width:100%; height:18px; 
+ margin-top: 80px;margin-left: 5px;
+ background-color: gold;}
+ 
+ body{ background-color: beige; }
+ 
+ 
+table{   width:400px;
+background-color:cornsilk; border-color: tan;
+
+border-radius: 3px; 
+
+
+}
+ 
