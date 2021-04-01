@@ -1,0 +1,6 @@
+$(document).ready(function(){
+	$('div').onmouseout(function()
+	{  alert('ppp');   });
+	
+	
+});
